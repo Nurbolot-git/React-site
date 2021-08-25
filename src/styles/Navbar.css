@@ -89,7 +89,7 @@
     display: inherit;
   }
 }
-
+/* hide a button's icon  */
 @media only screen and (min-width: 600px) {
   .navbar .rightSide button {
     display: none;
