@@ -5,9 +5,8 @@ import '../styles/Home.css';
 function Home() {
     return (
 
-        <section className="home">
-            <div className="headerContainer"
-                style={{ backgroundImage: `url(${BannerImage})` }}>
+        <section className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
+            <div className="headerContainer" >
                 <h1 className="header__title">
                     title
                 </h1>
@@ -23,4 +22,4 @@ function Home() {
     )
 }
 
-export default Home
+export default Home;
