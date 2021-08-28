@@ -29,6 +29,9 @@
   color: white;
   text-decoration: none;
   margin: 20px;
+  text-transform: capitalize;
+}
+. {
 }
 
 .navbar .rightSide button {
@@ -54,7 +57,7 @@
 }
 
 .navbar #open .hiddenLinks {
-  display: inherit;
+  /* display: inherit; */
   margin-left: 30px;
 }
 
