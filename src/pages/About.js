@@ -4,14 +4,14 @@ import '../styles/About.css'
 
 function About() {
     return (
-        <div>
+        <div className="about">
             <div className="aboutTop" style={{ backgroundImage: `url(${AbouutBackImg})` }}>
-                l
+
             </div>
             <div className="aboutBottom">
+                <h1>About Us</h1>
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere et quibusdam dicta iste numquam ad dolores ipsa accusantium esse nulla, aperiam quaerat suscipit neque nobis expedita voluptatem molestias laborum ea eius magnam repellendus sed minus non similique. Ut, at. Placeat error eligendi quia, corporis debitis obcaecati, cum nemo totam deleniti voluptate, eum blanditiis accusantium veniam! Non rem eos fugiat esse corporis facere quae nemo tenetur vel voluptates? Dolore, minima enim exercitationem quo molestias, quos, ipsa tempore tenetur fugit aspernatur numquam. Quas non, minus eos eligendi sed modi autem aperiam dolorem architecto sint nihil? Tempore error quam illum doloribus minima, dolorem voluptatibus corporis, iste dolore commodi quis aut reiciendis, unde quas tempora ea adipisci vitae nesciunt ad. Repudiandae velit veniam laudantium unde. Asperiores molestias nemo quas blanditiis ipsam deserunt! Illum voluptas deleniti officia possimus, rerum quam facilis eos distinctio laboriosam suscipit sint, harum explicabo? Ducimus consequatur voluptates deserunt praesentium, adipisci sequi, nemo temporibus maiores veritatis expedita perferendis, placeat perspiciatis provident iusto accusantium sit numquam ut. Quae debitis, illum sequi nesciunt vitae atque harum deleniti reiciendis, inventore recusandae nam at exercitationem! Quia quod corporis fuga, quae tempore, voluptatem reprehenderit dicta dignissimos a, eius qui? Aliquid doloribus fuga vel maxime ipsa mollitia repellat!
-                </p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum beatae, reiciendis odio alias deserunt nisi! Enim pariatur, optio ut est maxime similique exercitationem minima quidem nihil quas vitae amet, veritatis, soluta velit? Perspiciatis assumenda repellat corporis voluptates fugiat porro laborum nemo facilis enim repellendus? Porro ipsam in ad quo vel eveniet quis. Rerum adipisci id odio libero autem temporibus magni unde harum eum eligendi itaque tenetur fugit repudiandae vitae obcaecati ea inventore animi beatae aspernatur reprehenderit, quibusdam tempore veritatis repellendus. Placeat id a dolorum velit totam consequatur enim. Ut, aliquam in. Id dolorum quae, velit ea maiores tempore suscipit veritatis?   </p>
             </div>
         </div >
     )
